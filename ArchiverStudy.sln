@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiverStudy", "ArchiverStudy\ArchiverStudy.csproj", "{499FD785-F9A2-4C3B-ABA1-82748FEF8F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499FD785-F9A2-4C3B-ABA1-82748FEF8F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499FD785-F9A2-4C3B-ABA1-82748FEF8F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499FD785-F9A2-4C3B-ABA1-82748FEF8F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499FD785-F9A2-4C3B-ABA1-82748FEF8F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F37FD47-E70C-4A1E-9C5A-CF888E73866A}
+	EndGlobalSection
+EndGlobal
