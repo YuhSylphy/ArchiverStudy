@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArchiverStudy": {
+      "commandName": "Project",
+      "commandLineArgs": "menu test "
+    }
+  }
+}
